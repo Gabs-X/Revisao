@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y2opOfKFaHO3I3olFfSGXeiyAvsrpp+bvwO+bjKoXJJ8RPs/BYjS6mkaJHZsnD/EuqibGhcLzkTObxwDZf/AgQ==",
+  "success": true,
+  "projectFilePath": "D:\\faculdade\\aaaa\\prova\\Revisao\\src\\Revisao.Application\\Revisao.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel.botelho\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel.botelho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
